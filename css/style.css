@@ -1,0 +1,40 @@
+/*Body*/
+/*header*/
+  body {
+   background-image: url("http://zeldarentsmiami.com/wp-content/uploads/2016/09/miami-beach-9-1170x0-c-center.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+/*img*/
+img.resize {
+  max-width:5%;
+  max-height:5%;
+}
+.input-element {
+font-size: 50px;
+width: 2025px;
+margin: 100000;
+}
+input[type=text] {
+   width: 1225px;
+   height:30px;
+ }
+/*nav*/
+li {
+  list-style-type: none;
+  float: right;
+}
+ul {
+  list-style-type: none;
+  float: right;
+}
+/*div*/
+div {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 100px;
+  color: black;
+}
